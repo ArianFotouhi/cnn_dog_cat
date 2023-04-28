@@ -1,1 +1,3 @@
-A CNNs based classifier of cat and dog images.
+## A CNNs based binary image classifier of cat and dog images.
+
+#### 
