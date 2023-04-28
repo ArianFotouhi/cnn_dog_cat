@@ -5,3 +5,5 @@
 #### The model is based on TensorFlow CNNs and after the CNNs processing, the data is flattened for fully connected layers
 
 #### By sigmoid activation function the output is represented
+
+#### Adam Optimizer and Binary Cross Entropy loss is applied then trained for 50 epochs
